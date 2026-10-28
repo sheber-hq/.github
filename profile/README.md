@@ -1,33 +1,9 @@
-<p align="center">
-  <a href="https://sheber.space">
-    <img src="https://raw.githubusercontent.com/sheber-hq/.github/main/profile/banner.png" alt="Sheber: field service management for Kazakhstan" width="100%">
-  </a>
-</p>
+<a href="https://sheber.space"><img src="hero.svg" width="100%" alt="Sheber: one job, end to end"></a>
 
-**Sheber** (шебер: "master, craftsman" in Kazakh) is field service management for small service companies in Kazakhstan: appliance repair, air conditioning, plumbing, cleaning.
+<img src="flow.svg" width="100%" alt="One job: New → Scheduled → En route → In progress → Awaiting confirmation → Completed">
 
-One job goes end to end. The dispatcher creates and assigns it, the technician does the work and takes an after photo, and the customer confirms with a code sent in Telegram.
+<img src="story.gif" width="100%" alt="sheber.space: the story of one job">
 
-### Status
+<img src="backend.gif" width="100%" alt="Inside the backend: one FastAPI app, 8 modules, one database, one worker">
 
-In development.
-
-- **Fall 2026:** web MVP: backend, dispatcher web app, technician page.
-- **Spring 2027:** Android app with offline work.
-
-### Stack
-
-FastAPI · PostgreSQL with row-level security · Redis · MinIO · Next.js · Telegram Bot API
-
-### Team
-
-Senior project (CSCI 408) at Nazarbayev University.
-
-| | |
-|---|---|
-| Bakhtiyar Orynbay | Backend |
-| Dias Shabarov | Backend, helps on both front ends |
-| Miras Nametov | Dispatcher web app |
-| Rustam Amanzhol | Technician side |
-
-<sub>[sheber.space](https://sheber.space)</sub>
+<p align="center"><sub>Field service management for small service companies in Kazakhstan · Senior project at Nazarbayev University · <a href="https://sheber.space">sheber.space</a></sub></p>
